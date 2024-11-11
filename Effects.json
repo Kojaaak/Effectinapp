@@ -6,7 +6,7 @@
     },
     {
       "name": "Character2",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character3",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Character4",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character5",
@@ -22,10 +22,14 @@
     },
     {
       "name": "Character6",
-      "isEffectActive": 0
+      "isEffectActive": 1
     },
     {
       "name": "Character7",
+      "isEffectActive": 1
+    }
+    {
+      "name": "Character8",
       "isEffectActive": 1
     }
   ]
